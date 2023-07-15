@@ -10,17 +10,14 @@ Website that hosts images on the web. User can upload the images and organize it
 - Hosting Tools: &nbsp; phpmyadmin, apache server
 
 ## Installation
-1. Install XAMPP
+1. Download the ZIP file of this repository
+2. Install XAMPP. Open XAMPP Control Panel and Start [apache] and [mysql]
+3. The Source Folder "image-organizer-site" is to placed in C:\\xampp\htdocs\
+5. Open the link "localhost/phpmyadmin"
 
-2. Open XAMPP Control Panel and Start [apache] and [mysql]
+6. Click on "new" on the sidebar, name the database (photography-website) and click on "create"
 
-3. The Source Folder "photography-site" is placed in C:\\xampp\htdocs\
+7. Import the SQL file from [image-organizer-site\database\photography.sql]
 
-4. Open the link "localhost/phpmyadmin"
-
-5. Click on "new" on the sidebar, name the database (photography-website) and click on "create"
-
-6. Import the SQL file from [photography-site\database\photography.sql]
-
-7. Open any browser and navigate to [http://localhost/photography-site]
+8. Open any browser and navigate to [http://localhost/image-organizer-site]
 
