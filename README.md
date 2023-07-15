@@ -1,12 +1,15 @@
-# photography-website
+# Image Media Organizer Website
 
+## Description
+Website that hosts images on the web. User can upload the images and organize it neatly in albums. Both album and images can be edited. Refer to the Presentation file for detailed functionality.
 
-This project is carried out as a part of Full Stack Web Development Internship
+## Technology Stack
+- FrontEnd: &nbsp; HTML, CSS, Bootstrap, JavaScript
+- BackEnd: &nbsp; &nbsp; PHP
+- Database: &nbsp; MySQL
+- Hosting Tools: phpmyadmin, apache server
 
-with Varcons Technologies Pvt Ltd 
-
-# Installation
-
+## Installation
 1. Install XAMPP
 
 2. Open XAMPP Control Panel and Start [apache] and [mysql]
