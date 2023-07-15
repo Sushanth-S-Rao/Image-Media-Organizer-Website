@@ -7,7 +7,7 @@ Website that hosts images on the web. User can upload the images and organize it
 - FrontEnd: &nbsp; HTML, CSS, Bootstrap, JavaScript
 - BackEnd: &nbsp; &nbsp; PHP
 - Database: &nbsp; MySQL
-- Hosting Tools: phpmyadmin, apache server
+- Hosting Tools: &nbsp; phpmyadmin, apache server
 
 ## Installation
 1. Install XAMPP
